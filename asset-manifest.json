@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.59f93061.css",
-    "main.js": "/static/js/main.daad1f76.js",
-    "static/media/benefit.jpg": "/static/media/benefit.f88cacd87e3008e8380a.jpg",
-    "static/media/bg-image.jpg": "/static/media/bg-image.f85929623f774d327979.jpg",
-    "static/media/herbal-aloe.jpg": "/static/media/herbal-aloe.ed249a7b1dad8091b7ce.jpg",
-    "static/media/program-maxim.jpg": "/static/media/program-maxim.e301c2ec8ee81d99236f.jpg",
-    "static/media/program-starter.jpg": "/static/media/program-starter.3a93b9ef23caca10e956.jpg",
-    "static/media/program-mediu.jpg": "/static/media/program-mediu.a6e9a6f1817cb74702e3.jpg",
-    "static/media/logo.png": "/static/media/logo.0926dfd73b2708c3e1b4.png",
-    "static/media/rebuild.jpg": "/static/media/rebuild.1af6f0fd8385ebb186ea.jpg",
-    "static/media/herbal-shake.jpg": "/static/media/herbal-shake.36851a82da9561edff30.jpg",
-    "index.html": "/index.html",
-    "main.59f93061.css.map": "/static/css/main.59f93061.css.map",
-    "main.daad1f76.js.map": "/static/js/main.daad1f76.js.map"
+    "main.css": "/shop/static/css/main.7e7c6833.css",
+    "main.js": "/shop/static/js/main.be9163f3.js",
+    "static/media/benefit.jpg": "/shop/static/media/benefit.f88cacd87e3008e8380a.jpg",
+    "static/media/bg-image.jpg": "/shop/static/media/bg-image.f85929623f774d327979.jpg",
+    "static/media/herbal-aloe.jpg": "/shop/static/media/herbal-aloe.ed249a7b1dad8091b7ce.jpg",
+    "static/media/program-maxim.jpg": "/shop/static/media/program-maxim.e301c2ec8ee81d99236f.jpg",
+    "static/media/program-starter.jpg": "/shop/static/media/program-starter.3a93b9ef23caca10e956.jpg",
+    "static/media/program-mediu.jpg": "/shop/static/media/program-mediu.a6e9a6f1817cb74702e3.jpg",
+    "static/media/logo.png": "/shop/static/media/logo.0926dfd73b2708c3e1b4.png",
+    "static/media/rebuild.jpg": "/shop/static/media/rebuild.1af6f0fd8385ebb186ea.jpg",
+    "static/media/herbal-shake.jpg": "/shop/static/media/herbal-shake.36851a82da9561edff30.jpg",
+    "index.html": "/shop/index.html",
+    "main.7e7c6833.css.map": "/shop/static/css/main.7e7c6833.css.map",
+    "main.be9163f3.js.map": "/shop/static/js/main.be9163f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f93061.css",
-    "static/js/main.daad1f76.js"
+    "static/css/main.7e7c6833.css",
+    "static/js/main.be9163f3.js"
   ]
 }
