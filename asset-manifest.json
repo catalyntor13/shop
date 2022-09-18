@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shop/static/css/main.7e7c6833.css",
-    "main.js": "/shop/static/js/main.be9163f3.js",
+    "main.css": "/shop/static/css/main.b13ae364.css",
+    "main.js": "/shop/static/js/main.7e337a56.js",
     "static/media/benefit.jpg": "/shop/static/media/benefit.f88cacd87e3008e8380a.jpg",
     "static/media/bg-image.jpg": "/shop/static/media/bg-image.f85929623f774d327979.jpg",
     "static/media/herbal-aloe.jpg": "/shop/static/media/herbal-aloe.ed249a7b1dad8091b7ce.jpg",
@@ -12,11 +12,11 @@
     "static/media/rebuild.jpg": "/shop/static/media/rebuild.1af6f0fd8385ebb186ea.jpg",
     "static/media/herbal-shake.jpg": "/shop/static/media/herbal-shake.36851a82da9561edff30.jpg",
     "index.html": "/shop/index.html",
-    "main.7e7c6833.css.map": "/shop/static/css/main.7e7c6833.css.map",
-    "main.be9163f3.js.map": "/shop/static/js/main.be9163f3.js.map"
+    "main.b13ae364.css.map": "/shop/static/css/main.b13ae364.css.map",
+    "main.7e337a56.js.map": "/shop/static/js/main.7e337a56.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e7c6833.css",
-    "static/js/main.be9163f3.js"
+    "static/css/main.b13ae364.css",
+    "static/js/main.7e337a56.js"
   ]
 }
